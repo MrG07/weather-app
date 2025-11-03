@@ -19,15 +19,9 @@ Key learnings include:
 
 ## ⚙️ How It Works
 1. The user enters a **city name** in the input field.  
-2. On clicking **Search**, the app calls the **WeatherAPI** using this URL:  
-https://api.weatherapi.com/v1/current.json?key=ea05112c7d79499fa89135627242312&q={city}&aqi=no
-
-yaml
-Copy code
-3. If the city exists:
-- The weather details are displayed (temperature, weather condition, humidity, and wind speed).  
-4. If the city name is invalid:
-- The app shows an error message (`City not found!`).  
+2. On clicking **Search**, the app calls the **WeatherAPI**.  
+3. If the city exists: The weather details are displayed (temperature, weather condition, humidity, and wind speed).  
+4. If the city name is invalid: The app shows an error message (`City not found!`).  
 
 ---
 
