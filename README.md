@@ -4,6 +4,8 @@
 This is a simple **React Weather App** that shows real-time weather information for any city in the world.  
 It fetches live data using the **WeatherAPI** and displays temperature, weather condition, humidity, and wind speed in an elegant interface.
 
+https://mrg07.github.io/weather-app/
+
 ---
 
 ## 🧠 Learning Topics
